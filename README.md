@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript)
 ![ASP.NET Core](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![Year](https://img.shields.io/badge/Year-2026-blue?style=flat)
 
 A full-stack task management application built with ASP.NET Core and React, demonstrating modern web development practices.
 
@@ -143,6 +145,12 @@ This project taught me:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 📅 Project Timeline
+
+- **Started:** January 2026
+- **Completed:** March 2026
+- **Duration:** 10 weeks
 
 ## 📬 Contact
 
